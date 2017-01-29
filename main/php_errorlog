@@ -1,0 +1,27 @@
+[03-Dec-2016 00:31:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'car_select' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/main/admin.php on line 40
+[03-Dec-2016 00:34:05 CST6CDT] PHP Parse error:  syntax error, unexpected 'car_select' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/main/admin.php on line 43
+[03-Dec-2016 00:35:15 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/digiashi/public_html/project/main/admin.php on line 52
+[03-Dec-2016 01:00:12 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/digiashi/public_html/project/main/admin.php on line 3
+[03-Dec-2016 01:16:34 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/digiashi/public_html/project/main/admin.php on line 3
+[03-Dec-2016 02:14:28 CST6CDT] PHP Parse error:  syntax error, unexpected '$car_no' (T_VARIABLE) in /home/digiashi/public_html/project/main/admin.php on line 47
+[03-Dec-2016 04:05:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'form' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/main/admin.php on line 71
+[03-Dec-2016 04:25:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'car_no' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/main/admin.php on line 51
+[04-Dec-2016 01:52:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/main/admin_action.php on line 10
+[04-Dec-2016 01:52:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/main/admin_action.php on line 10
+[04-Dec-2016 01:52:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/main/admin_action.php on line 10
+[04-Dec-2016 03:36:41 CST6CDT] PHP Fatal error:  Call to undefined function test_name() in /home/digiashi/public_html/project/main/add_car.php on line 11
+[04-Dec-2016 03:37:12 CST6CDT] PHP Fatal error:  Call to undefined function test_pwd() in /home/digiashi/public_html/project/main/add_car.php on line 12
+[04-Dec-2016 03:37:41 CST6CDT] PHP Fatal error:  Call to undefined function connect_to_db() in /home/digiashi/public_html/project/main/add_car.php on line 14
+[04-Dec-2016 03:59:50 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/digiashi/public_html/project/main/add_car.php on line 23
+[04-Dec-2016 04:41:32 CST6CDT] PHP Parse error:  syntax error, unexpected '$hash' (T_VARIABLE) in /home/digiashi/public_html/project/main/login.php on line 38
+[04-Dec-2016 23:35:47 CST6CDT] PHP Fatal error:  Cannot redeclare connect_to_db() (previously declared in /home/digiashi/public_html/project/main/admin.php:90) in /home/digiashi/public_html/project/main/admin.php on line 204
+[05-Dec-2016 00:20:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/digiashi/public_html/project/main/add_car.php on line 27
+[05-Dec-2016 00:24:59 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/digiashi/public_html/project/main/add_car.php on line 28
+[05-Dec-2016 00:28:44 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/digiashi/public_html/project/main/add_car.php on line 31
+[05-Dec-2016 00:29:42 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/digiashi/public_html/project/main/add_car.php on line 28
+[05-Dec-2016 01:37:30 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/digiashi/public_html/project/main/admin.php on line 258
+[05-Dec-2016 01:38:28 CST6CDT] PHP Fatal error:  Call to undefined function connect_to_db() in /home/digiashi/public_html/project/main/admin.php on line 82
+[05-Dec-2016 01:39:25 CST6CDT] PHP Fatal error:  Call to undefined function connect_to_db() in /home/digiashi/public_html/project/main/admin.php on line 82
+[05-Dec-2016 01:39:31 CST6CDT] PHP Fatal error:  Call to undefined function connect_to_db() in /home/digiashi/public_html/project/main/admin.php on line 82
+[05-Dec-2016 01:39:58 CST6CDT] PHP Fatal error:  Call to undefined function connect_to_db() in /home/digiashi/public_html/project/main/admin.php on line 82
+[05-Dec-2016 01:46:54 CST6CDT] PHP Fatal error:  Call to undefined function connect_to_db() in /home/digiashi/public_html/project/main/admin.php on line 81
